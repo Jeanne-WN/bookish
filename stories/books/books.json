@@ -1,0 +1,226 @@
+[
+  {
+    "title": "代码整洁之道",
+    "author": ["Robert C. Martin", "韩磊"],
+    "published_at": "2010-01-01",
+    "isbn": ["7115216878", "9787115216878"],
+    "asin": "B0031M9GHC"
+  },
+  {
+    "title": "重构:改善既有代码的设计",
+    "author": ["Martin Fowler", "熊节"],
+    "published_at": "2015-08-01",
+    "isbn": ["9787115369093"],
+    "asin": "B011LPUB42"
+  },
+  {
+    "title": "敏捷软件开发(原则模式与实践)",
+    "author": ["Robert C. Martin", "邓辉"],
+    "published_at": "2003-09-01",
+    "isbn": ["7302071977", "9787302071976"],
+    "asin": "B00116MMA8"
+  },
+  {
+    "title": "高效程序员的45个习惯:敏捷开发修炼之道(修订版)",
+    "author": ["Venkat Subramaniam", "Andy Hunt", "钱安川", "郑柯"],
+    "published_at": "2014-09-01",
+    "isbn": ["7115370362", "9787115370365"],
+    "asin": "B00OA9L3NU"
+  },
+  {
+    "title": "程序员思维修炼(修订版)",
+    "author": ["Andy Hunt", "崔康"],
+    "published_at": "2015-01-01",
+    "isbn": ["9787115374936"],
+    "asin": "B00QT2TS6U"
+  },
+  {
+    "title": "UNIX编程艺术",
+    "author": ["Eric S. Raymond", "姜宏", "何源", "蔡晓骏"],
+    "published_at": "2012-08-01",
+    "isbn": ["7121176653", "9787121176654"],
+    "asin": "B008Z1IEQ8"
+  },
+  {
+    "title": "修改代码的艺术",
+    "author": ["Michael C. Feathers", "侯伯薇"],
+    "published_at": "2014-06-11",
+    "isbn": ["9787111466253"],
+    "asin": "B00KMJ2Q1U"
+  },
+  {
+    "title": "人月神话(40周年中文纪念版)",
+    "author": ["Frederick P.Brooks", "UML China 翻译组", "汪颖"],
+    "published_at": "2015-05-11",
+    "isbn": ["9787302392644"],
+    "asin": "B00VR8ZO28"
+  },
+  {
+    "title": "代码大全(第2版)",
+    "author": ["Steve McConnell", "金戈"],
+    "published_at": "2011-10-01",
+    "isbn": ["7121022982", "9787121022982"],
+    "asin": "B0061XKRXA"
+  },
+  {
+    "title": "人件(原书第3版)(珍藏版)",
+    "author": ["Tom DeMarco", "Timothy Lister", "肖然", "张逸", "滕云"],
+    "published_at": "2014-09-16",
+    "isbn": ["9787111474364"],
+    "asin": "B00MO7R1SG"
+  },
+  {
+    "title": "UNIX网络编程(卷1):套接字联网API",
+    "author": ["W.Richard Stevens", "Bill Fenner", "Andrew M.Rudoff"],
+    "published_at": "2015-08-01",
+    "isbn": ["9787115367198"],
+    "asin": "B011S72JB6"
+  },
+  {
+    "title": "编译原理",
+    "author": ["Alfred V. Aho", "Monica S.Lam", "赵建华", "郑滔", "戴新宇"],
+    "published_at": "2009-01-01",
+    "isbn": ["9787111251217", "7111251210"],
+    "asin": "B001NGO85I"
+  },
+  {
+    "title": "深入理解计算机系统",
+    "author": ["Randal E.Bryant", "龚奕利", "雷迎春"],
+    "published_at": "2011-01-01",
+    "isbn": ["9787111321330", "7111321332"],
+    "asin": "B004BJ18KM"
+  },
+  {
+    "title": "计算机程序的构造和解释",
+    "author": ["艾伯森", "裘宗燕"],
+    "published_at": "2004-02-01",
+    "isbn": ["7111135105", "9787111135104"],
+    "asin": "B0011AP7RY"
+  },
+  {
+    "title": "操作系统:精髓与设计原理",
+    "author": ["William Stallings", "陈向群", "陈渝"],
+    "published_at": "2010-09-01",
+    "isbn": ["9787111304265", "7111304268"],
+    "asin": "B0041859AI"
+  },
+  {
+    "title": "持续交付:发布可靠软件的系统方法",
+    "author": ["Jez Humble", "David Farley", "乔梁"],
+    "published_at": "2011-10-01",
+    "isbn": ["9787115264596"],
+    "asin": "B005V9BB1M"
+  },
+  {
+    "title": "黑客与画家:硅谷创业之父Paul Graham文集",
+    "author": ["Paul Graham", "阮一峰"],
+    "published_at": "2011-04-01",
+    "isbn": ["9787115249494", "7115249490"],
+    "asin": "B004WHZGZQ"
+  },
+  {
+    "title": "实现模式(修订版)",
+    "author": ["Kent Beck", "李剑", "熊节", "郭晓刚"],
+    "published_at": "2012-12-01",
+    "isbn": ["9787115294609"],
+    "asin": "B00ADQPPLA"
+  },
+  {
+    "title": "企业应用架构模式",
+    "author": ["Martin Fowler", "UML China", "王怀民", "周斌"],
+    "published_at": "2010-04-01",
+    "isbn": ["9787111303930", "7111303938"],
+    "asin": "B003LBSRDM"
+  },
+  {
+    "title": "实现领域驱动设计",
+    "author": ["Vaughn Vernon", "张逸", "滕云"],
+    "published_at": "2014-03-01",
+    "isbn": ["9787121224485", "7121224488"],
+    "asin": "B00IYTVWA6"
+  },
+  {
+    "title": "领域特定语言",
+    "author": ["Martin Fowler", "ThoughtWorks中国"],
+    "published_at": "2013-03-21",
+    "isbn": ["7111413059", "9787111413059"],
+    "asin": "B00BT9KOFM"
+  },
+  {
+    "title": "微服务设计",
+    "author": ["Sam Newman"],
+    "published_at": "2016-04-01",
+    "isbn": ["9787115420268", "7115420262"],
+    "asin": "B01ER75V6O"
+  },
+  {
+    "title": "面向模式的软件架构(第1卷):模式系统",
+    "author": ["Frank Buschmann", "Regine Meunier", "Hans Rohnert", "Peter Sommerlad", "袁国忠"],
+    "published_at": "2013-11-01",
+    "isbn": ["7115332150", "9787115332158"],
+    "asin": "B00FUH7HBS"
+  },
+  {
+    "title": "编写可读代码的艺术",
+    "author": ["Dustin Boswell", "Trevor Foucher", "尹哲", "郑秀雯"],
+    "published_at": "2012-07-03",
+    "isbn": ["7111385446", "9787111385448"],
+    "asin": "B008B4DTG4"
+  },
+  {
+    "title": "设计模式：可复用面向对象软件的基础",
+    "author": ["Erich Gamma", "Richard Helm", "Ralph Johnson", "John Vlissides", "李英军"],
+    "published_at": "2007-01-01",
+    "isbn": ["7111075757"],
+    "asin": "B001130JN8"
+  },
+  {
+    "title": "程序员修炼之道:从小工到专家",
+    "author": ["Andrew Hunt", "David Thomas", "马维达"],
+    "published_at": "2011-01-01",
+    "isbn": ["7121123363", "9787121123368"],
+    "asin": "B004GV08CY"
+  },
+  {
+    "title": "发布!软件的设计与部署",
+    "author": ["Michael T.Nygard", "凃鸣"],
+    "published_at": "2015-02-01",
+    "isbn": ["7115380457", "9787115380456"],
+    "asin": "B00SRO01GY"
+  },
+  {
+    "title": "Scrum敏捷软件开发",
+    "author": ["Mike Cohn", "廖靖斌", "吕梁岳", "陈争云"],
+    "published_at": "2010-11-01",
+    "isbn": ["9787302238799", "7302238790"],
+    "asin": "B004ASNXK2"
+  },
+  {
+    "title": "用户故事与敏捷方法",
+    "author": ["Mike Cohn", "Kent Beck", "李国彪", "滕振宇", "石永超", "张博超"],
+    "published_at": "2010-04-01",
+    "isbn": ["7302223408", "9787302223405"],
+    "asin": "B003JBIUSG"
+  },
+  {
+    "title": "用户故事地图",
+    "author": ["帕顿", "李涛", "向振东"],
+    "published_at": "2016-04-01",
+    "isbn": ["9787302429944", "7302429944"],
+    "asin": "B01DVFE2TK"
+  },
+  {
+    "title": "Git版本控制管理",
+    "author": ["Jon Loeliger", "Mattbew McCullougb", "王迪", "丁彦"],
+    "published_at": "2012-07-01",
+    "isbn": ["9787115382436"],
+    "asin": "B00U42VM7Y"
+  },
+  {
+    "title": "精通正则表达式",
+    "author": ["Jeffrey E.F.Friedl"],
+    "published_at": "2012-07-01",
+    "isbn": ["7121175010", "9787121175015"],
+    "asin": "B008UCHA58"
+  }
+]
