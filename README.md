@@ -2,4 +2,4 @@
 
 Bookish故事卡
 
-[Story 000 - 环境搭建](stories/000.md)
+[Story 001 - 环境搭建](stories/001.md)
