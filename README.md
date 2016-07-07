@@ -17,3 +17,7 @@ Bookish故事卡
 [Story 007 - 作为bookish用户，我希望可以登录账户](stories/007.md)
 
 [Story 008 - 作为bookish用户，我希望可以退出账户](stories/008.md)
+
+[Story 009 - 作为bookish用户，我希望可以添加图书到我的书单](stories/009.md)
+
+[Story 010 - 作为bookish用户，我希望可以将图书从我的书单移除](stories/010.md)
