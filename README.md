@@ -21,3 +21,5 @@ Bookish故事卡
 [Story 009 - 作为bookish用户，我希望可以添加图书到我的书单](stories/009.md)
 
 [Story 010 - 作为bookish用户，我希望可以将图书从我的书单移除](stories/010.md)
+
+[Story 011 - 作为bookish用户，我希望可以搜索图书](stories/011.md)
